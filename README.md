@@ -13,4 +13,6 @@
 * 3.1-[函数和组件-函数](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-3.1-%E5%87%BD%E6%95%B0%E5%92%8C%E7%BB%84%E4%BB%B6-%E5%87%BD%E6%95%B0.ipynb)
 * 3.2-[函数和组件-方法](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-3.2-%E5%87%BD%E6%95%B0%E5%92%8C%E7%BB%84%E4%BB%B6-%E6%96%B9%E6%B3%95.ipynb)
 * 3.3-[函数和组件-组件](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-3.3-%E5%87%BD%E6%95%B0%E5%92%8C%E7%BB%84%E4%BB%B6-%E7%BB%84%E4%BB%B6.ipynb)
-
+* 4.1-[Numpy-numpy]()
+* 4.2-[Numpy-2D numpy阵列]()
+* 4.3-[Numpy-使用numpy进行基础统计]()
