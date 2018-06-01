@@ -6,6 +6,8 @@
 
 在线查看使用：[Jupyter nbviewer](http://nbviewer.jupyter.org/)
 
-* [1.1-变量与数据类型](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-1.1-%E5%8F%98%E9%87%8F%E4%B8%8E%E7%B1%BB%E5%9E%8B.ipynb)
+* 1.1-
+* 2.1-
+* 2.2-
+* 2.3-
 
-  
