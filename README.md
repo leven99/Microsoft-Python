@@ -10,4 +10,7 @@
 * 2.1-[列表-数据结构-Python列表](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-2.1-%E5%88%97%E8%A1%A8-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Python%E5%88%97%E8%A1%A8.ipynb)
 * 2.2-[列表-数据结构-子集列表](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-2.2-%E5%88%97%E8%A1%A8-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%AD%90%E9%9B%86%E5%88%97%E8%A1%A8.ipynb)
 * 2.3-[列表-数据结构-操作列表](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-2.3-%E5%88%97%E8%A1%A8-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.ipynb)
+* 3.1-[函数和组件-函数](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-3.1-%E5%87%BD%E6%95%B0%E5%92%8C%E7%BB%84%E4%BB%B6-%E5%87%BD%E6%95%B0.ipynb)
+* 3.2-[函数和组件-方法](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-3.2-%E5%87%BD%E6%95%B0%E5%92%8C%E7%BB%84%E4%BB%B6-%E6%96%B9%E6%B3%95.ipynb)
+* 3.3-[函数和组件-组件](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-3.3-%E5%87%BD%E6%95%B0%E5%92%8C%E7%BB%84%E4%BB%B6-%E7%BB%84%E4%BB%B6.ipynb)
 
