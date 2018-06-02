@@ -19,4 +19,6 @@
 * 5.1-[用Matplotlib绘图-用matplotlib基本绘图](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-5.1-%E7%94%A8Matplotlib%E7%BB%98%E5%9B%BE-%E7%94%A8matplotlib%E5%9F%BA%E6%9C%AC%E7%BB%98%E5%9B%BE.ipynb)
 * 5.2-[用Matplotlib绘图-直方图](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-5.2-%E7%94%A8Matplotlib%E7%BB%98%E5%9B%BE-%E7%9B%B4%E6%96%B9%E5%9B%BE.ipynb)
 * 5.3-[用Matplotlib绘图-定制](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-5.3-%E7%94%A8Matplotlib%E7%BB%98%E5%9B%BE-%E5%AE%9A%E5%88%B6.ipynb)
+* 6.1-[控制流和Pandas-布尔逻辑和控制流](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-6.1-%E6%8E%A7%E5%88%B6%E6%B5%81%E5%92%8CPandas-%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91%E5%92%8C%E6%8E%A7%E5%88%B6%E6%B5%81.ipynb)
+* 6.2-[控制流和Pandas-Pandas](http://nbviewer.jupyter.org/github/FeelF/Microsoft-Python/blob/master/Python-6.2-%E6%8E%A7%E5%88%B6%E6%B5%81%E5%92%8CPandas-Pandas.ipynb)
 
